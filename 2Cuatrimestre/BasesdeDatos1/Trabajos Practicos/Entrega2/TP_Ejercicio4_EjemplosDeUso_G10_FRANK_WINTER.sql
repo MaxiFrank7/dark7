@@ -24,7 +24,7 @@ SELECT A.Codigo, E.NombreComun, U.Plaza, C.Nombre, U.Altura
 FROM Arbol A
 JOIN Especie E ON E.idEspecie=A.idEspecie
 JOIN Ubicacion U ON U.idUbicacion=A.idUbicacion
-JOIN Calles C ON U.idCalle=C.idCalle
+LEFT JOIN Calles C ON U.idCalle=C.idCalle
 LEFT JOIN Reclamos R ON R.idArbol=A.idArbol
 WHERE R.idReclamo IS NULL
 GO
