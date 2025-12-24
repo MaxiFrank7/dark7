@@ -61,3 +61,14 @@ plt.xlabel('Empleado')
 plt.ylabel('Dolares')
 plt.show()
 
+# Estilo visual automático (hace que se vea más moderno)
+sns.set_theme() 
+
+sns.scatterplot(
+    data=df_empresa, 
+    x='Años_Experiencia', 
+    y='Salario', 
+    hue='Departamento',  # ¡Magia! Colorea según el depto
+    s=100                # Tamaño de los puntos (size)
+)
+plt.show()
