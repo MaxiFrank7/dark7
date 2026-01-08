@@ -5,12 +5,19 @@ Tambien estoy subiendo mis practicas de datasets extraidos de kaggle relacionada
 
 ## Primer Año
 
-### [Segundo Cuatrimestre](./2Cuatrimestre)
+### [Segundo Cuatrimestre](./TUIA_Primero/2Cuatrimestre)
 
-* [Programación 2](./2Cuatrimestre/Programacion2)
-* [Bases de Datos I](./2Cuatrimestre/BasesdeDatos1)
+* [Programación 2](./TUIA_Primero/2Cuatrimestre/Programacion2)
+* [Bases de Datos I](./TUIA_Primero/2Cuatrimestre/BasesdeDatos1)
 
 ## Segundo Año
+
+### [Primer Cuatrimestre](./TUIA_Segundo/1Cuatrimestre)
+*
+*
+### [Segundo Cuatrimestre](./TUIA_Segundo/2Cuatrimestre)
+*
+*
 
 ---------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------
