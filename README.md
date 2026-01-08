@@ -1,6 +1,7 @@
-# TUIA - TECNICATURA EN INTELIGENCIA ARTIFICIAL.
+# MaxiFrank7
 
-Repositorio donde subo las ejercitaciones de todas aquellas materias que requieran código de la TUIA en UNR
+Repositorios donde subo las ejercitaciones de todas aquellas materias que requieran código de la TUIA en UNR.
+Tambien estoy subiendo mis practicas de datasets extraidos de kaggle relacionadas al MachineLearning DeepLearning y EDA
 
 ## Primer Año
 
@@ -10,4 +11,12 @@ Repositorio donde subo las ejercitaciones de todas aquellas materias que requier
 * [Bases de Datos I](./2Cuatrimestre/BasesdeDatos1)
 
 ## Segundo Año
+
+---------------------------------------------------------------------------------------------------------------
+
+## [MachineLearning](./MachineLearning)
+
+## [DeepLearning](./DeepLearning)
+
+## [EDA](./EDA)
 
